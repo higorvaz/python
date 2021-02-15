@@ -1,2 +1,2 @@
 # python
-Python
+Python scripts for financial aims like BitCoin trading bots.
